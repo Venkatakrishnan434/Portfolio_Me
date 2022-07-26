@@ -490,7 +490,7 @@ height: 1000px;
     margin-left: 1250px;
 }
 
-@media screen and (max-width: 800px) {
+@media only screen and (max-width: 800px) {
 
     .navbar{
         width: 100%;
@@ -532,7 +532,7 @@ height: 1000px;
     }
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (max-width: 720px) {
     .navbar{
         width: 100%;
     }
