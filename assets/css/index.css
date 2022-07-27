@@ -572,3 +572,45 @@ height: 1000px;
         width: 212%;
     }
 }
+@media only screen and (min-width: 2304px){
+     .navbar{
+        width: 100%;
+    }
+
+    .navbar-brand{
+        margin-left: 900px;
+    }
+    .logo{
+        margin-left: -790px;
+    }
+    .side{
+        margin-left: 360px;
+        margin-top: -130px;
+    }
+    #circle{
+        margin-left: 300px;
+        
+    }
+    .ex{
+        margin-left: 100px;
+        
+    }
+    .thir-div{
+        height: 80%;
+    }
+    .first-ph{
+        width: 25%;
+        margin-left: -100px;
+    }
+    .sec-ph{
+         width: 25%;
+    }
+    .thir-ph{
+        width: 25%;
+        height: 370px;
+    }
+    .for-ph{
+        width: 25%;
+    }
+
+}
