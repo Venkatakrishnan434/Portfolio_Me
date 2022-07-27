@@ -490,7 +490,7 @@ height: 1000px;
     margin-left: 1250px;
 }
 
-@media only screen and (max-width: 800px) {
+/* @media only screen and (max-width: 800px) {
 
     .navbar{
         width: 100%;
@@ -530,11 +530,11 @@ height: 1000px;
     .six-div{
         width: 189.9%;
     }
-}
+} */
 
-@media screen and (max-width: 720px) {
+@media only screen and (max-width: 600px) {
     .navbar{
-        width: 100%;
+        width: 255%;
     }
     .navbar-brand{
         margin-left: 10px;
@@ -544,35 +544,36 @@ height: 1000px;
     }
     .venky{
         width: 70%;
-        margin-left: -150px;
+        margin-left: -220px;
+        margin-top: 40px;
     }
     .txt{
-        margin-left: -150px;
-        margin-top: 20px;
+        margin-left: -230px;
+        margin-top: 10px;
     }
     #btn{
-        margin-left: -150px;
-        margin-top: 20px;
+        margin-left: -230px;
+        margin-top: 10px;
     }
     .side{
-        width: 70%;
-        margin-top: 50px;
-        margin-left: -50px;
+        width: 100%;
+        margin-top: 20px;
+        margin-left: -100px;
     }
     .thir-div{
-        width: 212%;
+        width: 255%;
     }
     .four-div{
-        width: 212%;
+        width: 255%;
     }
     .five-div{
-        width: 212%;
+        width: 255%;
     }
     .six-div{
-        width: 212%;
+        width: 255%;
     }
 }
-@media only screen and (min-width: 2304px){
+/* @media only screen and (min-width: 2304px){
      .navbar{
         width: 100%;
     }
@@ -613,4 +614,4 @@ height: 1000px;
         width: 25%;
     }
 
-}
+} */
