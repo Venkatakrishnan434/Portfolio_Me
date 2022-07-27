@@ -5,7 +5,7 @@
     position: absolute;
     
 
-}
+}   
 .navbar-brand{
     cursor: pointer;
     font-size: 30px;
@@ -531,8 +531,7 @@ height: 1000px;
         width: 189.9%;
     }
 } */
-
-@media only screen and (max-width: 600px) {
+@media  screen and (max-width: 600px) {
     .navbar{
         width: 255%;
     }
