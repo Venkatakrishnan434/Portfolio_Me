@@ -490,7 +490,7 @@ height: 1000px;
     margin-left: 1250px;
 }
 
-@media only screen and (max-width: 800px) {
+@media  screen and (max-width: 800px) {
 
     .navbar{
         width: 100%;
@@ -572,7 +572,7 @@ height: 1000px;
         width: 255%;
     }
 }
-/* @media only screen and (min-width: 2304px){
+@media  screen and (min-width: 2304px){
      .navbar{
         width: 100%;
     }
@@ -613,4 +613,40 @@ height: 1000px;
         width: 25%;
     }
 
-} */
+}
+@media  screen and (max-width: 360px) {
+    .venky{
+        width: 200%;
+    }
+    .side{
+        position: absolute;
+        width: 200%;
+        left: 300%;
+    }
+    .txt{
+        position: absolute;
+        left: 74%;
+        top: 72%;
+        width: 250%;
+        /* background-color: #fc605c; */
+    }
+    #btn{
+        position: absolute;
+        left: 73%;
+        top: 93%;
+    }
+    .thir-div{
+        position: absolute;
+        width: 430%;
+    }
+    .four-div{
+        width: 430%;
+    }
+    .five-div{
+        width: 430%;
+    }
+    .six-div{
+        width: 430%;
+    }
+
+}
